@@ -1,23 +1,23 @@
-#home.product-product-727497 .product .product__descr .product__descr, #home.product-product-727498 .product .product__descr .product__descr, #home.product-product-727495 .product .product__descr .product__descr, #home.product-product-727496 .product .product__descr .product__descr, #home.product-product-139805 .product .product__descr .product__descr {
+#home.product-product-727497 .product .product__descr .product__descr, #home.product-product-727494 .product .product__descr .product__descr, #home.product-product-727498 .product .product__descr .product__descr, #home.product-product-727495 .product .product__descr .product__descr, #home.product-product-727496 .product .product__descr .product__descr, #home.product-product-139805 .product .product__descr .product__descr {
   border-bottom: 0;
   margin-bottom: 0 !important;
 }
-#home.product-product-727497 .product .product__descr, #home.product-product-727498 .product .product__descr, #home.product-product-727495 .product .product__descr, #home.product-product-727496 .product .product__descr, #home.product-product-139805 .product .product__descr {
+#home.product-product-727497 .product .product__descr, #home.product-product-727494 .product .product__descr, #home.product-product-727498 .product .product__descr, #home.product-product-727495 .product .product__descr, #home.product-product-727496 .product .product__descr, #home.product-product-139805 .product .product__descr {
   width: 1100px;
   margin-bottom: 36px !important;
   padding-bottom: 0 !important;
   border-bottom: 1px solid #e6e6e6;
 }
-#home.product-product-727497 .b-desc, #home.product-product-727498 .b-desc, #home.product-product-727495 .b-desc, #home.product-product-727496 .b-desc, #home.product-product-139805 .b-desc {
+#home.product-product-727497 .b-desc, #home.product-product-727494 .b-desc, #home.product-product-727498 .b-desc, #home.product-product-727495 .b-desc, #home.product-product-727496 .b-desc, #home.product-product-139805 .b-desc {
   display: block;
 }
-#home.product-product-727497 *, #home.product-product-727498 *, #home.product-product-727495 *, #home.product-product-727496 *, #home.product-product-139805 * {
+#home.product-product-727497 *, #home.product-product-727494 *, #home.product-product-727498 *, #home.product-product-727495 *, #home.product-product-727496 *, #home.product-product-139805 * {
   text-size-adjust: none !important;
   -moz-text-size-adjust: none !important;
   -webkit-text-size-adjust: none !important;
   -ms-text-size-adjust: none !important;
 }
-#home.product-product-727497 .product__descr img, #home.product-product-727498 .product__descr img, #home.product-product-727495 .product__descr img, #home.product-product-727496 .product__descr img, #home.product-product-139805 .product__descr img {
+#home.product-product-727497 .product__descr img, #home.product-product-727494 .product__descr img, #home.product-product-727498 .product__descr img, #home.product-product-727495 .product__descr img, #home.product-product-727496 .product__descr img, #home.product-product-139805 .product__descr img {
   max-width: 100% !important;
   display: block;
 }
