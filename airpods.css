@@ -1,0 +1,201 @@
+#home.product-product-727485 .product__descr {
+  width: 1100px;
+}
+#home.product-product-727485 .product__descr__top {
+  padding: 63px 50px 60px;
+}
+#home.product-product-727485 .product__descr__title {
+  font-family: "Graphik-Medium-Cy";
+  font-size: 32px;
+  line-height: 35px;
+  margin-bottom: 26px;
+  text-align: center;
+  color: #000;
+}
+#home.product-product-727485 .product__descr__text {
+  text-align: center;
+}
+#home.product-product-727485 .product__descr__text p {
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 0px;
+  max-width: 600px;
+  display: inline-block;
+  margin-top: 0px;
+  color: #000;
+}
+#home.product-product-727485 .product__descr__top img {
+  display: block;
+  max-width: 100%;
+  margin: 50px auto 0;
+}
+#home.product-product-727485 .product__descr__items {
+  padding-bottom: 3px;
+  margin-top: 60px;
+}
+#home.product-product-727485 .product__descr__items .col {
+  float: left;
+  width: 326px;
+  margin-right: 60px;
+  color: #000;
+}
+#home.product-product-727485 .product__descr__items .col:last-of-type {
+  margin-right: 0;
+}
+#home.product-product-727485 .product__descr__item {
+  margin-bottom: 60px;
+  display: none;
+}
+#home.product-product-727485 .col .product__descr__item {
+  display: block;
+}
+#home.product-product-727485 .product__descr__item img {
+  display: block;
+}
+#home.product-product-727485 .product__descr__item strong {
+  font-size: 18px;
+  line-height: 21px;
+  display: block;
+  margin-top: 26px;
+  margin-bottom: 11px;
+  font-weight: 400;
+}
+#home.product-product-727485 .product__descr__items p {
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 10px;
+}
+#home.product-product-727485 .product__descr__texts {
+  padding-top: 80px;
+  border-top: 1px solid #e6e6e6;
+  padding-bottom: 65px;
+}
+#home.product-product-727485 .product__descr__texts div {
+  float: left;
+  width: 326px;
+  margin-right: 60px;
+}
+#home.product-product-727485 .product__descr__texts div:last-of-type {
+  margin-right: 0;
+}
+#home.product-product-727485 .product__descr__texts div p {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 21px;
+  color: #999;
+}
+#home.product-product-727485 .br-mob {
+  display: none;
+}
+#home.product-product-727485 .product__descr__top {
+  background: url(https://re-store.ru/upload/icons-tovar/airpods-2019-max/cover@2x.jpg) top center no-repeat;
+  height: 740px;
+  box-sizing: border-box;
+  background-size: 1100px 740px;
+}
+#home.product-product-727485 .product__descr-footer {
+  margin-top: 17px;
+  padding-top: 32px;
+  padding-bottom: 30px;
+  border-top: 1px solid #eaeaea;
+}
+#home.product-product-727485 .product__descr-footer > p {
+  font-size: 12px !important;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33 !important;
+  letter-spacing: normal;
+  color: #999999;
+  margin: 0px !important;
+  margin-bottom: 12px !important;
+  font-family: "Graphik-Regular-Cy";
+  transition: all 0.2s;
+}
+#home.product-product-727485 .product__descr-footer__descr {
+  display: none;
+}
+#home.product-product-727485 .product__descr-footer__but {
+  color: #f91184 !important;
+  cursor: pointer;
+}
+#home.product-product-727485 .product__descr__items .col .product__descr__item:last-child {
+  margin-bottom: 60px;
+}
+#home.product-product-727485 .product__descr .product__descr__items {
+  padding-bottom: 0px;
+}
+@media only screen and (max-width: 767px) {
+  #home.product-product-727485 .product__descr__title {
+    font-size: 28px !important;
+    line-height: 1.25 !important;
+  }
+  #home.product-product-727485 .product__descr .product__descr__text p {
+    text-align: center !important;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    line-height: 21px !important;
+  }
+  #home.product-product-727485 .product__descr__items .product__descr__item img {
+    margin: 20px 0;
+  }
+  #home.product-product-727485 .product__descr__top {
+    margin: 0 -20px;
+    padding: 23px 20px 60px;
+  }
+  #home.product-product-727485 .product__descr__top img {
+    max-width: 100%;
+  }
+  #home.product-product-727485 .product__descr {
+    width: 100%;
+  }
+  #home.product-product-727485 .product__descr__text br {
+    display: none;
+  }
+  #home.product-product-727485 .product__descr__texts div {
+    float: none;
+    margin-bottom: 30px;
+    width: 100%;
+    margin-right: 0;
+  }
+  #home.product-product-727485 .br-mob {
+    display: block !important;
+  }
+  #home.product-product-727485 .product__descr__items {
+    margin-top: 60px;
+  }
+  #home.product-product-727485 .product__descr__item {
+    margin-bottom: 53px;
+    color: #000;
+  }
+  #home.product-product-727485 .product__descr__item img {
+    margin: 20px 0;
+  }
+  #home.product-product-727485 .product__descr__item strong {
+    text-align: left;
+  }
+  #home.product-product-727485 .product__descr__item p br {
+    display: none;
+  }
+  #home.product-product-727485 .product__descr__items p {
+    text-align: left;
+  }
+  #home.product-product-727485 .product__descr__item {
+    display: block;
+  }
+  #home.product-product-727485 .product__descr__item_dn {
+    display: none;
+  }
+  #home.product-product-727485 .product__descr p {
+    text-align: left;
+  }
+  #home.product-product-727485 .product__descr__top {
+    background: #f7f7f7 url(https://re-store.ru/upload/icons-tovar/airpods-2019-max/cover_m@3x.jpg) center center no-repeat !important;
+    background-size: cover !important;
+    max-height: 600px !important;
+  }
+  #home.product-product-727485 .product__descr__item p {
+    line-height: 21px !important;
+  }
+}/*# sourceMappingURL=airpods.css.map */
